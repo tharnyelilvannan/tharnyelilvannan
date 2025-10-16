@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hello! I'm Tharny. 👋
+I'm a third-year Software Engineering student at McMaster University. 
 <!--
 **tharnyelilvannan/tharnyelilvannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
