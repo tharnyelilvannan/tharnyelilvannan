@@ -2,7 +2,7 @@
 I'm a third-year Software Engineering student at McMaster University with a passion for embedded programming, machine learning, robotics, and DevOps. 
 
 ## About Me
-I love baking (especially cupcakes), doing henna, and learning new languages! I'm currently learning French, Tamil and ASL.
+I love baking (especially Lavender Vanilla cupcakes!), doing henna, and learning new languages! I'm currently learning French, Tamil and ASL.
 
 ## Languages and Tools
 <p align="left"> 
