@@ -27,5 +27,6 @@ I love baking (especially Lavender Vanilla cupcakes!), doing henna, and learning
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/></a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="40"/></a> 
 </p>
+
 ## Connect with Me
 Feel free to connect with me on LinkedIn!
