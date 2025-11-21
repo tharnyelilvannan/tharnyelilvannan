@@ -1,5 +1,5 @@
 # Hello! I'm Tharny. 👋
-I'm a third-year Software Engineering student at McMaster University with a passion for embedded programming, machine learning, robotics, and DevOps. 
+I'm a third-year Software Engineering student at McMaster University with a passion for embedded programming and robotics.
 
 ## About Me
 I love baking (especially Lavender Vanilla cupcakes!), doing henna, and learning new languages! I'm currently learning French, Tamil and ASL.
