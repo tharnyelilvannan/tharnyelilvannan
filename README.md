@@ -1,4 +1,4 @@
-# Hello! I'm Tharny. 👋
+# Hello! I'm Tharani. 👋
 I'm a third-year Software Engineering student at McMaster University with a passion for embedded programming, firmware development and robotics.
 
 ## About Me
